@@ -1,0 +1,1 @@
+// Sample content for controllers/goalController.js
